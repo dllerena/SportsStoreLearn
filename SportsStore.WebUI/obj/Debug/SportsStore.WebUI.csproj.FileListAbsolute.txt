@@ -34,3 +34,39 @@ c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\Sports
 c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Moq.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Moq.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

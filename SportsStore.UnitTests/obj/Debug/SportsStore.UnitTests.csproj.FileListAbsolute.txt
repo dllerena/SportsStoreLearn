@@ -35,3 +35,40 @@ c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\Sports
 c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 c:\users\dnunez-llerena\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\WebActivator.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+C:\Users\dnunez-llerena\Source\Repos\SportsStoreLearn\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
