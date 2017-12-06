@@ -1,17 +1,3 @@
-﻿/* NUGET: BEGIN LICENSE TEXT
- *
- * Microsoft grants you the right to use these script files for the sole
- * purpose of either: (i) interacting through your browser with the Microsoft
- * website or online service, subject to the applicable licensing or use
- * terms; or (ii) using the files as included with a Microsoft product subject
- * to that product's license terms. Microsoft reserves all other rights to the
- * files not expressly granted by Microsoft, whether by implication, estoppel
- * or otherwise. Insofar as a script file is dual licensed under GPL,
- * Microsoft neither took the code under GPL nor distributes it thereunder but
- * under the terms set out in this paragraph. All notices and licenses
- * below are for informational purposes only.
- *
- * NUGET: END LICENSE TEXT */
 intellisense.annotate(jQuery, {
   'ajax': function() {
     /// <signature>
@@ -286,6 +272,7 @@ intellisense.annotate(jQuery, {
   },
   'noop': function() {
     /// <summary>An empty function.</summary>
+    /// <returns type="Function" />
   },
   'now': function() {
     /// <summary>Return a number representing the current time.</summary>
@@ -441,10 +428,6 @@ intellisense.annotate(_object, {
   'disable': function() {
     /// <summary>Disable a callback list from doing anything more.</summary>
     /// <returns type="Callbacks" />
-  },
-  'disabled': function() {
-    /// <summary>Determine if the callbacks list has been disabled.</summary>
-    /// <returns type="Boolean" />
   },
   'empty': function() {
     /// <summary>Remove all of the callbacks from a list.</summary>
@@ -1380,21 +1363,11 @@ intellisense.annotate(jQuery.fn, {
     ///   <returns type="jQuery" />
     /// </signature>
   },
-  'finish': function() {
-    /// <signature>
-    ///   <summary>Stop the currently-running animation, remove all queued animations, and complete all animations for the matched elements.</summary>
-    ///   <param name="queue" type="String">The name of the queue in which to stop animations.</param>
-    ///   <returns type="jQuery" />
-    /// </signature>
-  },
   'first': function() {
     /// <summary>Selects the first matched element.</summary>
   },
   'first-child': function() {
     /// <summary>Selects all elements that are the first child of their parent.</summary>
-  },
-  'first-of-type': function() {
-    /// <summary>Selects all elements that are the first among siblings of the same element name.</summary>
   },
   'focus': function() {
     /// <signature>
@@ -1664,12 +1637,6 @@ intellisense.annotate(jQuery.fn, {
     ///   <returns type="jQuery" />
     /// </signature>
   },
-  'lang': function() {
-    /// <signature>
-    ///   <summary>Selects all elements of the specified language.</summary>
-    ///   <param name="language" type="String">A language code.</param>
-    /// </signature>
-  },
   'last': function() {
     /// <summary>Selects the last matched element.</summary>
   },
@@ -1902,18 +1869,6 @@ intellisense.annotate(jQuery.fn, {
     /// <signature>
     ///   <summary>Selects all elements that are the nth-child of their parent, counting from the last element to the first.</summary>
     ///   <param name="index" type="String">The index of each child to match, starting with the last one (1), the string even or odd, or an equation ( eg. :nth-last-child(even), :nth-last-child(4n) )</param>
-    /// </signature>
-  },
-  'nth-last-of-type': function() {
-    /// <signature>
-    ///   <summary>Selects all elements that are the nth-child of their parent, counting from the last element to the first.</summary>
-    ///   <param name="index" type="String">The index of each child to match, starting with the last one (1), the string even or odd, or an equation ( eg. :nth-last-of-type(even), :nth-last-of-type(4n) )</param>
-    /// </signature>
-  },
-  'nth-of-type': function() {
-    /// <signature>
-    ///   <summary>Selects all elements that are the nth child of their parent in relation to siblings with the same element name.</summary>
-    ///   <param name="index" type="String">The index of each child to match, starting with 1, the string even or odd, or an equation ( eg. :nth-of-type(even), :nth-of-type(4n) )</param>
     /// </signature>
   },
   'odd': function() {
@@ -2239,12 +2194,6 @@ intellisense.annotate(jQuery.fn, {
     ///   <returns type="jQuery" />
     /// </signature>
   },
-  'root': function() {
-    /// <signature>
-    ///   <summary>Selects the element that is the root of the document.</summary>
-    ///   <param name="index" type="String">The index of each child to match, starting with 1, the string even or odd, or an equation ( eg. :nth-last-child(even), :nth-last-child(4n) )</param>
-    /// </signature>
-  },
   'scroll': function() {
     /// <signature>
     ///   <summary>Bind an event handler to the "scroll" JavaScript event, or trigger that event on an element.</summary>
@@ -2426,9 +2375,6 @@ intellisense.annotate(jQuery.fn, {
     ///   <param name="handler(eventObject)" type="Function">A function to execute each time the event is triggered.</param>
     ///   <returns type="jQuery" />
     /// </signature>
-  },
-  'target': function() {
-    /// <summary>Selects the target element indicated by the fragment identifier of the document's URI.</summary>
   },
   'text': function() {
     /// <signature>
